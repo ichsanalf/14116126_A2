@@ -1,0 +1,12 @@
+.footer {
+  position: fixed;
+  width: 100%;
+  background-color: maroon;
+  color: white;
+  text-align: left;
+}
+.footer p {
+  padding-left: 20px;
+}
+
+/*# sourceMappingURL=footer.css.map */

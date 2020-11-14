@@ -1,0 +1,30 @@
+body {
+  color: black;
+}
+
+.content .row {
+  display: flex;
+  background-color: beige;
+}
+.content .column1 {
+  width: 50%;
+  padding: 10px;
+  border: 1px solid;
+  margin: 1px;
+}
+.content .column1 img {
+  height: 50%;
+  width: 50%;
+}
+.content .column2 {
+  width: 50%;
+  padding: 10px;
+  border: 1px solid;
+  margin: 1px;
+}
+.content .column2 img {
+  height: 50%;
+  width: 50%;
+}
+
+/*# sourceMappingURL=content.css.map */
